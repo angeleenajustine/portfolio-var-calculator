@@ -35,4 +35,3 @@ python var_calculator.py
 - All tickers are USD-listed; adding non-USD assets would introduce FX risk.
 
 ## Next steps
-Parametric and Monte Carlo VaR, backtesting (Kupiec test), and GARCH volatility are covered in later projects.
