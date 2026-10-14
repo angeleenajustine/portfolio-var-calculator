@@ -1,4 +1,4 @@
-# Portfolio Risk Calculator: Historical VaR and Expected Shortfall
+# Portfolio Risk Calculator: Historical VaR and Expected Shortfall (WIP)
 
 Python tool that measures 1-day market risk for a multi-asset portfolio using historical simulation.
 
@@ -22,10 +22,10 @@ python var_calculator.py
 ## Portfolio
 | Ticker | Weight |
 |---|---|
-| (fill in) | |
+|  | |
 
 ## Results
-*(Paste your table and the two figures here, then write 3-4 sentences interpreting them.)*
+
 
 ## Assumptions and limitations
 - Past returns are representative of future risk.
