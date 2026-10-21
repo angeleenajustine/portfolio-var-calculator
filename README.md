@@ -68,10 +68,10 @@ Tip: in Windows Command Prompt, `^` is a special character, so always put index 
 ## Example portfolio
 | Ticker | Weight |
 |---|---|
-| (fill in) | |
+| | |
 
 ## Results
-*(Paste your table and the two figures here, then write 3-4 sentences interpreting them.)*
+
 
 ## Assumptions and limitations
 - Past returns are representative of future risk.
