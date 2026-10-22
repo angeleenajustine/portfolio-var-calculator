@@ -16,14 +16,14 @@ pip install -r requirements.txt
 
 ## Run it
 ```bash
-python var_calculator_simple.py
+python var_calculator.py
 ```
 You will be asked for:
 1. **Tickers**, separated by commas (e.g. `SPY, TLT, ^GSPC`)
 2. **Weights**, separated by commas (e.g. `50, 30, 20`), or press Enter for equal weights. Weights are rescaled to sum to 1, so percentages and fractions both work.
 
 ### Settings
-Edit these constants at the top of `var_calculator_simple.py`:
+Edit these constants at the top of `var_calculator.py`:
 
 | Setting | Meaning | Default |
 |---|---|---|
